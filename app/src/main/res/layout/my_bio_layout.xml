@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textAlignment="center"
+        style="@style/titulos" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/alto_imagen2"
+        android:layout_marginTop="@dimen/layout_margin_top"
+        app:srcCompat="@drawable/avatar" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/titulos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layout_margin_top"
+        android:layout_marginRight="@dimen/layout_margin_top"
+        android:text="@string/letrero_datos" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/layout_margin_top">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/actor"
+            android:lineSpacingMultiplier="@dimen/espaciado"
+            android:text="@string/bio"
+            android:textSize="@dimen/tam_texto" />
+    </ScrollView>
+
+</LinearLayout>

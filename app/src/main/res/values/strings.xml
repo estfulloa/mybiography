@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mybiography</string>
+    <string name="name">Aurora Estefania</string>
+    <string name="letrero_datos">Mis datos</string>
+    <string name="bio">Soy Aurora Estefania Ulloa García, mis padres son José de Jesús Ulloa Mercado y Aurora García Rivera.
+        \n\n Nací en Tequila Jalisco el 19 de marzo de 1998, actualmente tengo 22 años y curso el 7mo semestre de la ingeniería en informática en el tecnológico Mario Molina.
+        \n\n Cuando estaba en la preparatoría siempre supe que yo quería hacer de mi vida algo grande, me gusta enfrentarme a nuevos retos y poner hasta el limite mi capacidad de hacer las cosas. Soy una persona muy sensible y me duele el dolor de los demás por lo tanto me gusta ayudar a las personas y participo de grupos parroquiales en donde damos un servicio gratuito a la comunidad en donde vivo.
+        \n\nA demás de ser estudiante soy coordinadora de un grupo de jovenes, tengo un trabajo en una empresa de bienes raíces y soy guía de turistas en José Cuervo Express, atiendo a mi familia y tengo un novio que aprecio muchisimo, me gusta hacer deporte, comer saludable y cuando me alcanza el tiempo  me pongo a leer novelas.
+    </string>
+</resources>
